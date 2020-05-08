@@ -1,0 +1,373 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+
+.row3
+{
+     background-color:#004aff;
+     padding: 20px 30px 20px 425px;
+     font-size: 15px;
+     color: white;
+     
+}
+
+.logo{
+    padding: 10px 0px 10px 100px;
+}
+.about:hover{
+    background-color:#004aff;
+}
+.service:hover{
+    background-color:#004aff;
+}
+.project:hover{
+    background-color: #004aff;
+}
+.Media:hover{
+    background-color: #004aff;
+}
+.News:hover{
+    background-color: #004aff;
+}
+.Donation:hover{
+    background-color: #004aff;
+}
+
+
+.home{
+    position: absolute;
+    top: 85px;
+    left: 470px;
+    cursor: pointer;
+    background-color: #004aff;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.about{
+    position: absolute;
+    top: 93px;
+    left: 580px;
+    cursor: pointer;
+    color: black;
+    width: 60px;
+    height: 25px;
+    border-radius: 20px;
+    border: none;
+}
+
+.service{
+    position: absolute;
+    top: 93px;
+    left: 670px;
+    cursor: pointer;
+    color: black;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    border: none;
+}
+
+.project{
+    position: absolute;
+    top: 93px;
+    left: 820px;
+    cursor: pointer;
+    color: black;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    border: none;
+}
+
+.Media{
+    position: absolute;
+    top: 85px;
+    left: 960px;
+    cursor: pointer;
+    color: black;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.News{
+    position: absolute;
+    top: 85px;
+    left: 1060px;
+    cursor: pointer;
+    color: black;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.Donation{
+    position: absolute;
+    top: 93px;
+    left: 1160px;
+    cursor: pointer;
+    color: black;
+    width: 80px;
+    height: 25px;
+    border-radius: 20px;
+    border: none;
+}
+
+
+.container{
+    height:100%;
+    width: 100%;
+    border: 0px;
+    background-color: white;
+}
+
+.row1
+{
+     height: 40%;
+     background-color: #25272E;
+     padding: 100px 30px 30px 100px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     color: gray;
+
+}
+
+.row2
+{
+    height: 0%;
+     background-color:#004aff;
+     padding: 25px 30px 20px 100px;
+     font-size: 15px;
+     color: white;
+}
+
+.heading{
+    padding-left: 400px;
+    font-size: 20px;
+    color: white;
+}
+
+.heading-1{
+ position: absolute;
+top: 2940px;
+left: 890px;
+width: 500px;
+font-size: 16px;
+color: purple;
+}
+
+.image{
+    padding-left: 400px;
+    color: black;
+}
+
+.line{
+    padding-left: 395px;
+}
+
+.fb{
+    height: 20px;
+    width: 20px;
+    padding-left: 30px;
+    padding-top: 15px;
+    cursor: pointer;
+}
+
+.twitter{
+    height: 20px;
+    width: 20px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    cursor: pointer;
+}
+
+.insta{
+    height: 20px;
+    width: 20px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    cursor: pointer;
+}
+
+.yt{
+    height: 20px;
+    width: 20px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    cursor: pointer;
+}
+
+.links{
+    padding-top: 25px;
+    padding-left: 10px;
+    list-style: none;
+    font-size: 15px;
+}
+
+.btn{
+    cursor: pointer;
+    position: absolute;
+    right: 300px;
+    top: 20px;
+}
+
+.btn2{
+    cursor: pointer;
+    position: absolute;
+    right: 215px;
+    top: 20px;
+}
+
+.btn3{
+    cursor: pointer;
+    position: absolute;
+    right: 130px;
+    top: 20px;
+}
+
+.facebook{
+    cursor: pointer;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+
+.tweet{
+    cursor: pointer;
+    position: absolute;
+    left: 150px;
+    top: 20px;
+}
+
+.instagram{
+    cursor: pointer;
+    position: absolute;
+    left: 200px;
+    top: 20px;
+}
+
+.youtube{
+    cursor: pointer;
+    position: absolute;
+    left: 250px;
+    top: 20px;
+}
+
+.whatsapp{
+    cursor: pointer;
+    position: absolute;
+    left: 300px;
+    top: 20px;
+}
+
+.news{
+    padding: 10px 10px 10px 10px;
+    background-color:#004aff;
+    color: white;
+}
+
+.intro{
+    color: lightslategray;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    font-size: 16px;
+}
+
+.mainin{
+    padding-top: 60px;
+}
+
+.monthly{
+    height: 100%;
+    width: 100%;
+    background-color: #2755E9;
+    flex-flow: row;
+    align-items: center;
+    text-align: initial;
+    padding: 50px 50px 80px 10px;
+    color: white;
+    display: flex;
+    
+}
+.p1{
+    margin: 2%;
+    padding-left: 10px;
+}
+ 
+.p2{
+    margin: 2%;
+    padding-left: 10px;
+}
+
+.p3{
+    margin: 2%;
+    padding-left: 10px;
+}
+
+.p4{
+    margin: 2%;
+    padding-left: 10px;
+}
+
+.num{
+    font-size: 300%;
+    font-family: Georgia;
+    font-weight: lighter;
+    padding-left: 40px;
+}
+
+.month{
+    color:#00FF00;
+}
+ 
+.doing{
+    padding: 50px 100px 300px 450px;
+    background-color: #F7F8FA;
+}
+
+.first{
+    flex-flow: column;
+    background-color: lawngreen;
+    padding-right: 200px;
+}
+
+ .box1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    padding-top:  20px;
+    flex-flow: column;
+} 
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    padding-top:  20px;
+} 
+
+.mission{
+    padding: 150px;
+    border: 2px solid grey;
+
+}
+
+.gallery{
+    padding: 200px;
+}
+
+
+
+
+
+
